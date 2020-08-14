@@ -1,3 +1,3 @@
 # First HTML Project
 ## Creating first website using HTML
-> By Rahul KT
+> By Rahul K Thejaswi
